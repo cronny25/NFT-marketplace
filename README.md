@@ -1,4 +1,4 @@
-# Demo marketplace
+# NFT-marketplace
 
 ## Project setup
 ### 1.Copy `.env.example` to `.env`
